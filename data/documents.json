@@ -1,0 +1,152 @@
+[
+  {
+    "document_id": "pto",
+    "title": "PTO policy",
+    "allowed_roles": [
+      "employee",
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Employees receive 18 PTO days per calendar year. Unused PTO carryover is capped at 5 days.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "holidays",
+    "title": "Holiday policy",
+    "allowed_roles": [
+      "employee",
+      "manager",
+      "hr_admin"
+    ],
+    "text": "ExampleCorp provides 11 paid company holidays per year. The holiday calendar is published every December.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "remote",
+    "title": "Remote work policy",
+    "allowed_roles": [
+      "employee",
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Employees may work remotely 2 days per week with approval. Remote work requests must be submitted 3 days ahead.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "expenses",
+    "title": "Expense policy",
+    "allowed_roles": [
+      "employee",
+      "manager",
+      "hr_admin"
+    ],
+    "text": "The meal reimbursement limit is $35 per day. Expense receipts must be submitted within 30 days.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "benefits",
+    "title": "Benefits policy",
+    "allowed_roles": [
+      "employee",
+      "manager",
+      "hr_admin"
+    ],
+    "text": "ExampleCorp reimburses a wellness allowance of $240 per year. Benefits enrollment closes after 20 days.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "approval",
+    "title": "Leave approval guide",
+    "allowed_roles": [
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Managers must respond to PTO leave approval requests within 4 business days. This manager guidance supplements the PTO policy.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "staffing",
+    "title": "Staffing guide",
+    "allowed_roles": [
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Managers must maintain a minimum of 3 staff members on the support shift. Staffing exceptions require director approval.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "budget",
+    "title": "Team budget guide",
+    "allowed_roles": [
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Managers may approve travel reimbursement expenses up to $750. Larger expenses require director approval.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "review",
+    "title": "Performance review guide",
+    "allowed_roles": [
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Managers schedule performance reviews every 6 months. Review notes remain restricted to managers and HR.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "hiring",
+    "title": "Hiring guide",
+    "allowed_roles": [
+      "manager",
+      "hr_admin"
+    ],
+    "text": "Hiring requests require 2 approvals before an offer is issued. Managers submit requests through the hiring form.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "salary",
+    "title": "Synthetic salary register",
+    "allowed_roles": [
+      "hr_admin"
+    ],
+    "text": "Maya Rao's annual salary is $83,417. This salary register is synthetic and restricted to HR Admin.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "bonus",
+    "title": "Synthetic bonus register",
+    "allowed_roles": [
+      "hr_admin"
+    ],
+    "text": "Maya Rao's annual bonus is $7,631. This compensation bonus register is synthetic and restricted to HR Admin.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "executive",
+    "title": "Synthetic executive compensation",
+    "allowed_roles": [
+      "hr_admin"
+    ],
+    "text": "The fictional CEO annual compensation is $247,913. The executive compensation register is restricted to HR Admin.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "payroll",
+    "title": "Synthetic payroll adjustment",
+    "allowed_roles": [
+      "hr_admin"
+    ],
+    "text": "Maya Rao's payroll adjustment is $1,287. Payroll adjustment records are restricted to HR Admin.",
+    "policy_version": 1
+  },
+  {
+    "document_id": "bands",
+    "title": "Compensation bands",
+    "allowed_roles": [
+      "hr_admin"
+    ],
+    "text": "The fictional analyst compensation band minimum is $62,349. Compensation band records are restricted to HR Admin.",
+    "policy_version": 1
+  }
+]
